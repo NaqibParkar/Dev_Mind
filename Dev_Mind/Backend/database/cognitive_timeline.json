@@ -1,0 +1,30 @@
+[
+  {
+    "time": "09:00",
+    "cognitive_load": 0.35
+  },
+  {
+    "time": "09:15",
+    "cognitive_load": 0.38
+  },
+  {
+    "time": "09:30",
+    "cognitive_load": 0.41
+  },
+  {
+    "time": "09:45",
+    "cognitive_load": 0.46
+  },
+  {
+    "time": "10:00",
+    "cognitive_load": 0.52
+  },
+  {
+    "time": "10:15",
+    "cognitive_load": 0.58
+  },
+  {
+    "time": "10:30",
+    "cognitive_load": 0.65
+  }
+]

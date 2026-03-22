@@ -1,0 +1,14 @@
+{
+  "today": {
+    "focus_score": 78,
+    "deep_work_minutes": 165,
+    "overload_minutes": 35,
+    "context_switches": 14
+  },
+  "last_week": {
+    "focus_score": 69,
+    "deep_work_minutes": 120,
+    "overload_minutes": 60,
+    "context_switches": 21
+  }
+}

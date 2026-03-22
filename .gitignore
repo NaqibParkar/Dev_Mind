@@ -9,4 +9,5 @@ build/
 node_modules/
 .env
 .env.local
-Dev_Mind/.git/
+.git/
+*.log

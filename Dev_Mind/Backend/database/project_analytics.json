@@ -1,0 +1,23 @@
+[
+  {
+    "project": "DevMind",
+    "total_time_hours": 4.25,
+    "average_focus": 79,
+    "deep_work_percentage": 62,
+    "overload_percentage": 14
+  },
+  {
+    "project": "ResearchAI",
+    "total_time_hours": 2.75,
+    "average_focus": 61,
+    "deep_work_percentage": 28,
+    "overload_percentage": 41
+  },
+  {
+    "project": "Portfolio",
+    "total_time_hours": 1.0,
+    "average_focus": 54,
+    "deep_work_percentage": 22,
+    "overload_percentage": 48
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "break_type": "Short Walk",
+    "pre_break_focus": 52,
+    "post_break_focus": 71,
+    "recovery_time_minutes": 6
+  },
+  {
+    "break_type": "Screen Rest",
+    "pre_break_focus": 60,
+    "post_break_focus": 68,
+    "recovery_time_minutes": 8
+  }
+]
